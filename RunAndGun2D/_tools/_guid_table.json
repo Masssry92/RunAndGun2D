@@ -1,0 +1,55 @@
+{
+  "scripts": {
+    "DetectionZone": "12712db95734843ffc28b8e74e1617fd",
+    "Health": "9a93d60287669e4ff6baa925880227a8",
+    "Projectile": "8ef0bc03f077bdc0a86cc5e712d73a0d",
+    "Team": "fa35baf0deff04d50ec5f326512180df",
+    "CameraFollow": "7154bbb93d3c0f46ec138b1947fb575b",
+    "CombatZoneActivator": "15d00df497c907377573390468c5fdc9",
+    "LevelExitTrigger": "2fbd1ab8c3f8a8956dadb7ef35705b2c",
+    "HealthBarUI": "fb58656df3803a4221e150b6093d0641",
+    "PickupItem": "d8ce6b12a35b130dec4a7529284ebb84",
+    "PlayerController": "5871034e494f4497501ec8cf75b6c224",
+    "PlayerHealth": "629b3945297af3e3fcf8359ec9980b41",
+    "PlayerShooting": "66b55be77c798920e7147d637fb26204",
+    "GameManager": "4d557a7b51ca65648748efb84cec66fb",
+    "ScoreManager": "0ef21cdf0f4cef2b62abe58f7f5b54d5",
+    "EnemyBase": "42d89f2916a4055cf4e95c311871f51c",
+    "EnemyMelee": "ec7c3569bc789c9ed8d75e35ed1c3aaa",
+    "EnemyRanged": "51c918e4e9af102003dfec6d4ff52631"
+  },
+  "sprites": {
+    "enemy_melee": "b2ebf6b16b2aac4c35cbe66a4227fa7c",
+    "enemy_ranged": "adff448ead0e109f567fad9d0b3c1967",
+    "pickup_ammo": "8234eb86171d67fb2fc0abbe06fc6bba",
+    "pickup_health": "08bf14be353aef55c6858d5f0c6e38f3",
+    "platform": "87e3049679183e8555031da528368c85",
+    "player": "04866554ce36dc09d79d259c6c53acd5",
+    "projectile_enemy": "908daf75baf30a18bf28cf9a0078acef",
+    "projectile_player": "7cac53d59a986cf23d92a2aa28f075ea",
+    "healthbar_bg": "4a34030d751bb5d8fc779d2f96639c1b",
+    "healthbar_fill": "3687ca567eaf89ea9927a8a0ec95e555"
+  },
+  "prefabs": {
+    "PlayerProjectile": "57726dc35038004beaf8b1a62f853d24",
+    "EnemyProjectile": "02432a2d364bbd1254141f565256a8c1",
+    "Player": "1b69c16669577680a5779f6a10f736aa",
+    "EnemyMelee": "5a3b5bfa6546ac95276afb1b10565660",
+    "EnemyRanged": "67ef08b2550ce619f060de5f2407254a",
+    "Platform": "f14c3c6df5d99b08eafff853f0be69a7",
+    "HealthPickup": "7bc8cb2705a9f0789e9cdfe3ffc48216",
+    "AmmoPickup": "ee40fbf63080ca57aedf3585e7d830af"
+  },
+  "exports": {
+    "PlayerProjectile": {
+      "projectile_component": 1000005
+    },
+    "EnemyProjectile": {
+      "projectile_component": 1000005
+    }
+  },
+  "scenes": {
+    "Level01": "17461b0738acfff448578af43e045e30",
+    "Level02": "104e4aab2504ef6fe8410037e0e69fc1"
+  }
+}

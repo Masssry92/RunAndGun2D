@@ -1,0 +1,8 @@
+Placez ici vos Animation Clips (.anim) et vos Animator Controllers (.controller)
+une fois que vous aurez remplacé les sprites placeholder par vos propres
+spritesheets (Idle, Run/Walk, Jump, Shoot, Hurt/Death...).
+
+Voir le README.md à la racine du projet, section "Ajouter les animations",
+pour la marche à suivre pas à pas dans l'éditeur Unity.
+
+Ce fichier peut être supprimé une fois que le dossier contient de vrais assets.
